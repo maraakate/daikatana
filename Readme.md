@@ -1,4 +1,4 @@
-# Daikatana 1.3 for Windows, Linux, OSX and FreeBSD
+# Daikatana 1.3 for Windows, Linux, and FreeBSD
   
 Preliminary front page of the Daikatana 1.3 project until we have a proper page ;-)  
 
