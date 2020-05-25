@@ -1,6 +1,4 @@
 # Daikatana 1.3 for Windows, Linux, and FreeBSD
-  
-Preliminary front page of the Daikatana 1.3 project until we have a proper page ;-)  
 
 ## Get the Daikatana 1.3 update: [Downloads](https://bitbucket.org/daikatana13/daikatana/wiki/Downloads)
 ## Where to get the game and how to install: [Installation Guide](https://bitbucket.org/daikatana13/daikatana/wiki/Installation)
