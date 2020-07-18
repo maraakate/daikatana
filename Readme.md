@@ -7,6 +7,7 @@
 ## Updated to the 12-23-18 build and don't know where your old saves or config files went? Read [Where did my saves games go?](https://bitbucket.org/daikatana13/daikatana/wiki/Where%20did%20my%20save%20games%20go%3F)
 ## New update and your saved games no longer work? [Updates and Save Game Compatibility](https://bitbucket.org/daikatana13/daikatana/wiki/Updates%20and%20Save%20Game%20Compatibility)
 ## Join the Daikatana Multiplayer Assosciation on Steam: [DKMPA](https://steamcommunity.com/groups/DKMPA)
+## Chat with us to schedule a game or talk DK: [DKMPA Steam](https://s.team/chat/bxsPFcX0) or [Romero Discord](https://discord.gg/vvQ6zqc)
 
 ![Daikatana](/CrossplatformScreenshot.jpg "Daikatana")
 
