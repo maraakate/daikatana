@@ -1,5 +1,7 @@
 # Daikatana 1.3 for Windows, Linux, and FreeBSD
 
+# Current Build: 02-18-2023
+
 ## Get the Daikatana 1.3 update: [Downloads](https://bitbucket.org/daikatana13/daikatana/wiki/Downloads)
 ## Where to get the game and how to install: [Installation Guide](https://bitbucket.org/daikatana13/daikatana/wiki/Installation)
 ## Report bugs here: [Bugtracker](https://bitbucket.org/daikatana13/daikatana/issues?status=new&status=open) or [Daikatana Discord](https://discord.gg/Uw65xwVQhY)
