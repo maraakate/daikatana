@@ -2,6 +2,30 @@
 
 # Current Build: 08-17-2023
 
+# What's New and Improved in 1.3?
+* Literally thousands of bugs fixes.
+* Native widescreen support
+* Borderless Windows
+* MSAA and Anisotropic Filtering
+* Stencil Shadows
+* Fast loading times
+* Improved AI node paths
+* Improved AI code
+* Option to play without Sidekicks
+* Option to play with invincible Sidekicks
+* HD texture support
+* Glowmap texture support
+* Additional mouse buttons
+* Asynchronous rendering.  This means your framerate won't skew physics.
+* Netcode improvements including compressed packets and fixed bounding box sizes for item pickup.
+* Modern installer for Windows
+* Native 64-bit executables
+* OpenAL audio engine
+* High quality OGG/FLAC/WAV soundtrack support
+* Windows 9x is still supported and tested on real hardware, including improvements for 3DFX Voodoo cards!
+* Option to use Quake 3 style console commands
+* And many more!  Check out the [Readme](http://maraakate.org/DK13/readme.pdf)!
+
 ## Get the Daikatana 1.3 update: [Downloads](https://bitbucket.org/daikatana13/daikatana/wiki/Downloads)
 ## Where to get the game and how to install: [Installation Guide](https://bitbucket.org/daikatana13/daikatana/wiki/Installation)
 ## Report bugs here: [Bugtracker](https://bitbucket.org/daikatana13/daikatana/issues?status=new&status=open) or [Daikatana Discord](https://discord.gg/Uw65xwVQhY)
