@@ -24,7 +24,7 @@
 * High quality OGG/FLAC/WAV soundtrack support
 * Windows 9x is still supported and tested on real hardware, including improvements for 3DFX Voodoo cards!
 * Option to use Quake 3 style console commands
-* And many many more!  Check out the [Readme](http://maraakate.org/DK13/readme.pdf)!
+* And many many more!  Check out the [Readme](https://github.com/maraakate/daikatana/releases/latest/downloads/readme.pdf)!
 
 ## Get the Daikatana 1.3 update: [Downloads](https://github.com/maraakate/daikatana/wiki/Downloads)
 ## Where to get the game and how to install: [Installation Guide](https://github.com/maraakate/daikatana/wiki/Installation)
