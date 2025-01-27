@@ -28,7 +28,7 @@
 
 ## Get the Daikatana 1.3 update: [Downloads](https://github.com/maraakate/daikatana/wiki/Downloads)
 ## Where to get the game and how to install: [Installation Guide](https://github.com/maraakate/daikatana/wiki/Installation)
-## Report bugs here: [Bugtracker](https://bitbucket.org/daikatana13/daikatana/issues?status=new&status=open) or [Daikatana Discord](https://discord.gg/Uw65xwVQhY)
+## Report bugs here: [Bugtracker](https://github.com/maraakate/daikatana/issues) or [Daikatana Discord](https://discord.gg/Uw65xwVQhY)
 ## New to Daikatana? Maybe you'd like [Some Tips! :-)](https://github.com/maraakate/daikatana/wiki/Tips)
 ## Updated to the 12-23-18 build and don't know where your old saves or config files went? Read [Where did my saves games go?](https://github.com/maraakate/daikatana/wiki/Where%20did%20my%20save%20games%20go%3F)
 ## New update and your saved games no longer work? [Updates and Save Game Compatibility](https://github.com/maraakate/daikatana/wiki/Updates%20and%20Save%20Game%20Compatibility)
@@ -37,8 +37,6 @@
 ## Chat with us to schedule a game or talk DK: [DKMPA Steam](https://s.team/chat/bxsPFcX0) or [Daikatana Discord](https://discord.gg/Uw65xwVQhY) or [Romero Discord](https://discord.gg/vvQ6zqc)
 
 ![Daikatana](/CrossplatformScreenshot.jpg "Daikatana")
-
-
 
 As we unfortunately can't release the source-code of Daikatana, it's not
 available here.
