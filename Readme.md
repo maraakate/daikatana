@@ -1,6 +1,6 @@
 # Daikatana 1.3 for Windows, Linux, and FreeBSD
 
-# Current Build: 12-24-2024
+# Current Build: 12-21-2025
 
 # What's New and Improved in 1.3?
 * Literally thousands of bugs fixes.
